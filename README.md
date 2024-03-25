@@ -7,7 +7,8 @@
 ![Leetcode Stats](https://leetcard.jacoblin.cool/devcodemaestro)
 
 <h2>학습 순서</h2>
-<p>Explore > learn 섹션을 통해  메뉴를 추천합니다.</p>
+<p>Explore > learn 섹션을 통해 학습 및 풀이를 진행합니다.</p>
+<p>학습의 순서는 Chat GPT와 Claude를 통해 질의 및 배치하였습니다.</p>
 <ol>
   <li>The LeetCode Beginner's Guide</li>
   <li>Arrays 101</li>
